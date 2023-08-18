@@ -1,0 +1,44 @@
+[
+    {
+        "maskapai": "Air Asia",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Ngurah Rai (DPS)",
+        "harga_tiket": "25000"
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Inanwatan (INX)",
+        "harga_tiket": "200000"
+    },
+    {
+        "maskapai": "Sriwijaya Asia",
+        "bandara_asal": "Abdul Rachman Saleh (MLG)",
+        "bandara_tujuan": "Inanwatan (INX)",
+        "harga_tiket": "3000000"
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "bandara_asal": "Abdul Rachman Saleh (MLG)",
+        "bandara_tujuan": "Hasanuddin (UPG)",
+        "harga_tiket": "5000"
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "bandara_asal": "Abdul Rachman Saleh (MLG)",
+        "bandara_tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga_tiket": "150000"
+    },
+    {
+        "maskapai": "Air Asia",
+        "bandara_asal": "Husein Sastranegara (BDO)",
+        "bandara_tujuan": "Inanwatan (INX)",
+        "harga_tiket": "150000"
+    },
+    {
+        "maskapai": "LION AIR",
+        "bandara_asal": "Soekarno-Hatta (CGK)",
+        "bandara_tujuan": "Inanwatan (INX)",
+        "harga_tiket": "150000"
+    }
+]

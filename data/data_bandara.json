@@ -1,0 +1,47 @@
+{
+    "bandara_asal": [
+      {
+        "No": 1,
+        "Bandara Asal": "Soekarno-Hatta (CGK)",
+        "Pajak": 50000
+      },
+      {
+        "No": 2,
+        "Bandara Asal": "Husein Sastranegara (BDO)",
+        "Pajak": 30000
+      },
+      {
+        "No": 3,
+        "Bandara Asal": "Abdul Rachman Saleh (MLG)",
+        "Pajak": 40000
+      },
+      {
+        "No": 4,
+        "Bandara Asal": "Juanda (SUB)",
+        "Pajak": 40000
+      }
+    ],
+    "bandara_tujuan": [
+      {
+        "No": 1,
+        "Bandara Tujuan": "Ngurah Rai (DPS)",
+        "Pajak": 80000
+      },
+      {
+        "No": 2,
+        "Bandara Tujuan": "Hasanuddin (UPG)",
+        "Pajak": 70000
+      },
+      {
+        "No": 3,
+        "Bandara Tujuan": "Inanwatan (INX)",
+        "Pajak": 90000
+      },
+      {
+        "No": 4,
+        "Bandara Tujuan": "Sultan Iskandarmuda (BTJ)",
+        "Pajak": 70000
+      }
+    ]
+  }
+  

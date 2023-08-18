@@ -1,0 +1,59 @@
+{
+    "routes": [
+      {
+        "no": 1,
+        "route": "Tangerang - Bandung",
+        "nomor_penerbangan": "GA123",
+        "jadwal": "Setiap Hari",
+        "jam": "10.5 WIB",
+        "keberangkatan": "Soekarno-Hatta (CGK)",
+        "kedatangan": "Husein Sastranegara (BDO)"
+      },
+      {
+        "no": 2,
+        "route": "Tangerang - Malang",
+        "nomor_penerbangan": "JT456",
+        "jadwal": "Setiap Hari",
+        "jam": "12.5 WIB",
+        "keberangkatan": "Soekarno-Hatta (CGK)",
+        "kedatangan": "Abdul Rachman Saleh (MLG)"
+      },
+      {
+        "no": 3,
+        "route": "Tangerang - Surabaya",
+        "nomor_penerbangan": "ID789",
+        "jadwal": "Setiap Hari",
+        "jam": "14.5 WIB",
+        "keberangkatan": "Soekarno-Hatta (CGK)",
+        "kedatangan": "Juanda (SUB)"
+      },
+      {
+        "no": 4,
+        "route": "Denpasar - Makassar",
+        "nomor_penerbangan": "IW234",
+        "jadwal": "Setiap Hari",
+        "jam": "16.5 WIB",
+        "keberangkatan": "Ngurah Rai (DPS)",
+        "kedatangan": "Hasanuddin (UPG)"
+      },
+      {
+        "no": 5,
+        "route": "Denpasar - Papua",
+        "nomor_penerbangan": "JT567",
+        "jadwal": "Setiap Hari",
+        "jam": "18.5 WIB",
+        "keberangkatan": "Ngurah Rai (DPS)",
+        "kedatangan": "Inanwatan (INX)"
+      },
+      {
+        "no": 6,
+        "route": "Denpasar - Aceh (BTJ)",
+        "nomor_penerbangan": "GA890",
+        "jadwal": "Setiap Hari",
+        "jam": "20.5 WIB",
+        "keberangkatan": "Ngurah Rai (DPS)",
+        "kedatangan": "Sultan Iskandarmuda (BTJ)"
+      }
+    ]
+  }
+  
